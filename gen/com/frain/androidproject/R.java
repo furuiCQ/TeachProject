@@ -37,27 +37,37 @@ public final class R {
         public static final int button6_playMusic=0x7f08000e;
         public static final int button7_uninstall=0x7f08000f;
         public static final int button8_install=0x7f080010;
-        public static final int checkbox=0x7f080015;
+        public static final int checkbox=0x7f08001a;
         public static final int circle_btn=0x7f080005;
+        public static final int contact_id=0x7f08001c;
+        public static final int contact_name=0x7f08001d;
+        public static final int contact_tel=0x7f08001e;
+        public static final int contacts_listview=0x7f080015;
         public static final int fragment_group=0x7f080001;
-        public static final int fragment_linearlayout=0x7f080011;
+        public static final int fragment_linearlayout=0x7f080016;
         public static final int friend_btn=0x7f080004;
+        public static final int get_list=0x7f080013;
         public static final int linear_layout=0x7f080000;
         public static final int main_btn=0x7f080003;
         public static final int radio_group=0x7f080002;
-        public static final int rating_bar=0x7f080014;
-        public static final int textview=0x7f080012;
-        public static final int txt_address=0x7f080013;
+        public static final int rating_bar=0x7f080019;
+        public static final int refresh_data=0x7f080014;
+        public static final int textview=0x7f080017;
+        public static final int txt_address=0x7f080018;
         public static final int txt_back=0x7f080006;
         public static final int txt_search=0x7f080008;
-        public static final int visble_linearlayout=0x7f080016;
+        public static final int username=0x7f080011;
+        public static final int usertel=0x7f080012;
+        public static final int visble_linearlayout=0x7f08001b;
     }
     public static final class layout {
         public static final int activity_dialog=0x7f030000;
         public static final int activity_fragment=0x7f030001;
         public static final int activity_main=0x7f030002;
-        public static final int fragment_view=0x7f030003;
-        public static final int list_item=0x7f030004;
+        public static final int activity_privoder=0x7f030003;
+        public static final int fragment_view=0x7f030004;
+        public static final int list_item=0x7f030005;
+        public static final int listview_contact=0x7f030006;
     }
     public static final class menu {
         public static final int main=0x7f070000;
